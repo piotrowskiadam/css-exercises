@@ -1,0 +1,16 @@
+.odd {
+  background-color: rgb(254, 167, 168);
+  font-family: Verdana, sans-serif;
+}
+.cooler {
+  font-size: 24px;
+}
+#div-1 {
+  color: #0005f8;
+  font-size: 36px;
+}
+#div-2 {
+  background-color: #84ff8b;
+  font-size: 24px;
+  font-weight: bold;
+}
